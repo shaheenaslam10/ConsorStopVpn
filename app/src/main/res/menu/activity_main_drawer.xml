@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+        <group>
+                <item
+                    android:id="@+id/split_tunnel"
+                    android:icon="@drawable/split_arrows"
+                    android:fontFamily="@font/muliregular"
+                    android:title="@string/split_tunneling" />
+        </group>
+        <group>
+                <item
+                    android:id="@+id/protocol"
+                    android:icon="@drawable/protocol"
+                    android:fontFamily="@font/muliregular"
+                    android:title="@string/protocol" />
+        </group>
+
+        <group>
+                <item
+                    android:id="@+id/action_change_language"
+                    android:title="@string/language"
+                    android:fontFamily="@font/muliregular"
+                    android:icon="@drawable/language"
+                    />
+        </group>
+
+        <group>
+                <item
+                    android:id="@+id/about"
+                    android:icon="@drawable/logo_drawer"
+                    android:fontFamily="@font/muliregular"
+                    android:title="@string/about" />
+        </group>
+        <group>
+                <item
+                    android:id="@+id/logout"
+                    android:icon="@drawable/logout"
+                    android:fontFamily="@font/muliregular"
+                    android:title="@string/logout" />
+        </group>
+
+
+
+
+
+</menu>

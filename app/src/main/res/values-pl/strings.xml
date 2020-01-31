@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CensorStop Vpn</string>
+    <string name="atom_secret_key">b24c8dec22e2db8556063d4f81f87750dece8f57</string>
+    <string name="reseller_id">443</string>
+    <string name="about_title">O nas CensorStop</string>
+    <string name="protocol">Protokoły</string>
+    <string name="tcp">TCP</string>
+    <string name="both">Oba</string>
+    <string name="both_desc">Użyj najlepszego dostępnego. </string>
+    <string name="tcp_desc">Wybierz tę opcję, aby uzyskać bezpieczne i niezawodne połączenie.</string>
+    <string name="udp">UDP</string>
+    <string name="udp_desc">Wybierz tę opcję, aby uzyskać szybkość i bezpieczeństwo.</string>
+    <string name="split_tunneling">Rozdzielanie ruchu</string>
+    <string name="split_tunneling_on">Wlacz rozdzielanie ruchu</string>
+    <string name="choose_country_channel">Wybierz kraj lub kanał</string>
+    <string name="split_tunneling_vpn_used_for">VPN jest uzywany dla konkretnych aplikacji</string>
+    <string name="split_tunnel_des">Rozdzielanie ruchu - uzytkownik może skierowac ruch przez siec VPN tylko z konkretnych - pozostaly ruch nie będzie skierowany przez VPN</string>
+    <string name="about_detail">W CensorStop pomysłowość jest zakorzeniona w całym cyklu rozwoju produktu. Wierzymy w całkowitą swobodę w sieci i niezachwiane bezpieczeństwo dla naszych klientów. </string>
+    <string name="search">Szukaj</string>
+    <string name="login">Logowanie</string>
+    <string name="username">Nazwa Uzytkownika</string>
+    <string name="remember_me">Remember me</string>
+    <string name="password">hasło</string>
+    <string name="login_now">zaloguj</string>
+    <string name="forgot_pass">Nie pamietasz hasła?</string>
+    <string name="title_activity_main">Główna działalność</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="logout">Wyloguj</string>
+    <string name="about">O nas</string>
+    <string name="app_version">Wersja aplikacji</string>
+    <string name="streaming">Streaming</string>
+    <string name="location">Lokalizacja</string>
+    <string name="secured">Chroniony</string>
+    <string name="not_secured"> Jesteś niechroniony</string>
+    <string name="go_to_channel">Idz to strony streamingu</string>
+    <string name="connected">Sprawdzanie statusu</string>
+    <string name="tap_to_connect">Kliknij aby połączyć </string>
+    <string name="connect_to">Połącz z </string>
+    <string name="username_error">Podaj swój login</string>
+    <string name="password_error">Podaj swoje hasło</string>
+    <string name="checking_status">Sprawdzanie statusu</string>
+    <string name="no_internet">Brak połączenia z Internetem</string>
+    <string name="internet_disconnected">Rozłączony Internet</string>
+    <string name="no_network_available">Brak dostępnej Sieci</string>
+    <string name="choose_country_or_channel">Wybierz kraj lub kanał.</string>
+    <string name="disconnect_logout_confirmation">Jesteś połączony do CensorStop. Czy na pewno chcesz przerwać połączenie i się wylogować?</string>
+    <string name="logout_confirmation">Jesteś pewny, że chcesz się wylogować?</string>
+    <string name="disconnectedd">Rozłączony</string>
+    <string name="connectedddd">Połączono </string>
+    <string name="connecting">Łączenie </string>
+    <string name="error_list">Błąd pobierania listy</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="language">Język</string>
+    <string name="language_dialog_title">Język</string>
+    <string name="english">angielski</string>
+    <string name="polish">Polskie</string>
+    <string name="language_dialog_message">Zmień język</string>
+    <string name="language_dialog_message_cannot">Odłącz połączenie VPN, aby zmienić język.</string>
+
+    <string name="waiting_for_useabale_network">Oczekiwanie na użyteczną sieć</string>
+    <string name="validating">Walidacja</string>
+    <string name="generating_new_userssasads">Generowanie nowego użytkownika</string>
+    <string name="getting_fastest_server">Zdobywanie najszybszego serwera</string>
+    <string name="waiting_for_server_reply">Oczekiwanie na odpowiedź serwera</string>
+    <string name="server_replied">Serwer odpowiedział</string>
+
+    <string-array name="lang_select">
+        <item>angielski</item>
+        <item>Polskie</item>
+    </string-array>
+
+</resources>

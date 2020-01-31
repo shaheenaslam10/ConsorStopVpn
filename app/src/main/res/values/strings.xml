@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">CensorStop Vpn</string>
+    <string name="atom_secret_key">b24c8dec22e2db8556063d4f81f87750dece8f57</string>
+    <string name="reseller_id">443</string>
+    <string name="about_title">About CensorStop</string>
+    <string name="protocol">Protocols</string>
+    <string name="tcp">TCP</string>
+    <string name="both">Both</string>
+    <string name="both_desc">We will use best and available.</string>
+    <string name="tcp_desc">Choose this for a secure &amp; reliable connection</string>
+    <string name="udp">UDP</string>
+    <string name="udp_desc">Choose this for speed &amp; security</string>
+    <string name="split_tunneling">Split Tunneling</string>
+    <string name="split_tunneling_on">Turn ON Split Tunneling</string>
+    <string name="choose_country_channel">Choose Country/Channel</string>
+    <string name="split_tunneling_vpn_used_for">VPN is used for selected apps</string>
+    <string name="split_tunnel_des">Using CensorStop, Split Tunneling feature, a user can route the traffic coming from a specific application throug a VPN tunnel. The rest of the application will remain unaffected by the VPN.</string>
+    <string name="about_detail">At CensorStop, ingenuity is engrained throughout our product development cycle. We believe in complete online freedom, along with impenetrable security for our users.</string>
+    <string name="search">Search</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_now">LOGIN NOW</string>
+    <string name="forgot_pass">Forgot Password?</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="about">About</string>
+    <string name="app_version">APP VERSION</string>
+    <string name="streaming">STREAMING</string>
+    <string name="location">LOCATION</string>
+    <string name="secured">Secure</string>
+    <string name="not_secured">Not Secure</string>
+    <string name="go_to_channel">Go to Channel Streaming</string>
+    <string name="connected">Checking Status</string>
+    <string name="tap_to_connect">Tap to Connect</string>
+    <string name="connect_to">Connect To</string>
+    <string name="username_error">Please enter username</string>
+    <string name="password_error">Please enter password</string>
+    <string name="checking_status">Checking Status</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="internet_disconnected">Internet disconnected</string>
+    <string name="no_network_available">No Network Available</string>
+    <string name="choose_country_or_channel">Please choose a country or channel.</string>
+    <string name="disconnect_logout_confirmation">You are connected to the CensorStop. Do you want to Disconnect and logout ?</string>
+    <string name="logout_confirmation">Are you sure you want to logout?</string>
+    <string name="disconnectedd">Disconnected</string>
+    <string name="connectedddd">Connected</string>
+    <string name="connecting">Connecting</string>
+    <string name="error_list">Error getting list.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="language">Language</string>
+    <string name="language_dialog_title">Language</string>
+    <string name="language_dialog_message">Change language</string>
+    <string name="english">English</string>
+    <string name="polish">Polish</string>
+    <string name="language_dialog_message_cannot">Please disconnect your vpn connection to change language.</string>
+    <string name="remember_me">Remember me</string>
+    <string name="waiting_for_useabale_network">Waiting for usable network</string>
+    <string name="validating">Validating</string>
+    <string name="getting_fastest_server">Getting fastest server</string>
+    <string name="waiting_for_server_reply">Waiting for server reply</string>
+    <string name="server_replied">Server replied</string>
+    <string name="generating_new_userssasads">Generating new user</string>
+
+
+    <string-array name="lang_select">
+        <item>English</item>
+        <item>Polish</item>
+    </string-array>
+
+</resources>
